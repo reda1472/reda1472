@@ -20,7 +20,7 @@ Web developer with 7 years of hands-on experience in programming and web develop
 | Repository | Focus & Architecture | Status |
 | :--- | :--- | :--- |
 | [**`portfolio-website`**](https://github.com/reda1472/portfolio-website) | Bilingual (EN / AR RTL) developer portfolio, interactive CV, and technical publication hub with zero runtime overhead. | 🟢 [Live Demo](https://reda1472.github.io/portfolio-website/) |
-| [**`business-management-dashboard`**](https://github.com/reda1472/business-management-dashboard) | Production-ready business operations dashboard featuring inventory management, relational MySQL schema, and instant search/filtering. | ⚙️ In Development |
+| [**`business-management-dashboard`**](https://github.com/reda1472/business-management-dashboard) | Production-ready business operations dashboard featuring inventory management, relational MySQL schema, POS transactions, and exportable reports. | 🟢 [Live Demo](https://reda1472.github.io/business-management-dashboard/) |
 | [**`retail-merchandising-platform`**](https://github.com/reda1472/retail-merchandising-platform) | Generic visual display planning and merchandising platform with campaign lifecycle management and layout capacity validation. | ⚙️ Planned |
 
 ---
@@ -47,3 +47,4 @@ Web developer with 7 years of hands-on experience in programming and web develop
 - **Email:** [redamohamed1477@gmail.com](mailto:redamohamed1477@gmail.com)
 - **LinkedIn:** [linkedin.com/in/reda-mohamed-a88b96257](https://www.linkedin.com/in/reda-mohamed-a88b96257/)
 - **GitHub:** [github.com/reda1472](https://github.com/reda1472)
+
