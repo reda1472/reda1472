@@ -22,7 +22,8 @@ Web developer with 7 years of hands-on experience in programming and web develop
 | [**`portfolio-website`**](https://github.com/reda1472/portfolio-website) | Bilingual (EN / AR RTL) developer portfolio, interactive CV, and technical publication hub with zero runtime overhead. | 🟢 [Live Demo](https://reda1472.github.io/portfolio-website/) |
 | [**`business-management-dashboard`**](https://github.com/reda1472/business-management-dashboard) | Production-ready business operations dashboard featuring inventory management, relational MySQL schema, POS transactions, and exportable reports. | 🟢 [Live Demo](https://reda1472.github.io/business-management-dashboard/) |
 | [**etail-merchandising-platform**](https://github.com/reda1472/retail-merchandising-platform) | Generic visual display planning and merchandising platform with campaign lifecycle management, spatial density validation, and planograms. | 🟢 [Live Demo](https://reda1472.github.io/retail-merchandising-platform/) |
-| [**`ecommerce-platform`**](https://github.com/reda1472/ecommerce-platform) | Modern bilingual e-commerce storefront with reactive shopping cart, discount coupon engine, and checkout flow. | 🟢 [Live Demo](https://reda1472.github.io/ecommerce-platform/) |
+| [**ecommerce-platform**](https://github.com/reda1472/ecommerce-platform) | Modern bilingual e-commerce storefront with reactive shopping cart, discount coupon engine, and checkout flow. | 🟢 [Live Demo](https://reda1472.github.io/ecommerce-platform/) |
+| [**`booking-appointment-system`**](https://github.com/reda1472/booking-appointment-system) | Service booking & scheduling platform with real-time slot conflict prevention and digital confirmation tickets. | 🟢 [Live Demo](https://reda1472.github.io/booking-appointment-system/) |
 
 ---
 
@@ -48,6 +49,7 @@ Web developer with 7 years of hands-on experience in programming and web develop
 - **Email:** [redamohamed1477@gmail.com](mailto:redamohamed1477@gmail.com)
 - **LinkedIn:** [linkedin.com/in/reda-mohamed-a88b96257](https://www.linkedin.com/in/reda-mohamed-a88b96257/)
 - **GitHub:** [github.com/reda1472](https://github.com/reda1472)
+
 
 
 
