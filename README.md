@@ -24,7 +24,8 @@ Web developer with 7 years of hands-on experience in programming and web develop
 | [**etail-merchandising-platform**](https://github.com/reda1472/retail-merchandising-platform) | Generic visual display planning and merchandising platform with campaign lifecycle management, spatial density validation, and planograms. | 🟢 [Live Demo](https://reda1472.github.io/retail-merchandising-platform/) |
 | [**ecommerce-platform**](https://github.com/reda1472/ecommerce-platform) | Modern bilingual e-commerce storefront with reactive shopping cart, discount coupon engine, and checkout flow. | 🟢 [Live Demo](https://reda1472.github.io/ecommerce-platform/) |
 | [**ooking-appointment-system**](https://github.com/reda1472/booking-appointment-system) | Service booking & scheduling platform with real-time slot conflict prevention and digital confirmation tickets. | 🟢 [Live Demo](https://reda1472.github.io/booking-appointment-system/) |
-| [**`crm-sales-pipeline`**](https://github.com/reda1472/crm-sales-pipeline) | Enterprise CRM with interactive visual Kanban pipeline, deal lifecycle tracking, and communication activity logs. | 🟢 [Live Demo](https://reda1472.github.io/crm-sales-pipeline/) |
+| [**crm-sales-pipeline**](https://github.com/reda1472/crm-sales-pipeline) | Enterprise CRM with interactive visual Kanban pipeline, deal lifecycle tracking, and communication activity logs. | 🟢 [Live Demo](https://reda1472.github.io/crm-sales-pipeline/) |
+| [**`warehouse-inventory-system`**](https://github.com/reda1472/warehouse-inventory-system) | Multi-warehouse inventory platform with inter-hub transfers, location bins, and interactive barcode scanning. | 🟢 [Live Demo](https://reda1472.github.io/warehouse-inventory-system/) |
 
 ---
 
@@ -50,6 +51,7 @@ Web developer with 7 years of hands-on experience in programming and web develop
 - **Email:** [redamohamed1477@gmail.com](mailto:redamohamed1477@gmail.com)
 - **LinkedIn:** [linkedin.com/in/reda-mohamed-a88b96257](https://www.linkedin.com/in/reda-mohamed-a88b96257/)
 - **GitHub:** [github.com/reda1472](https://github.com/reda1472)
+
 
 
 
