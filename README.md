@@ -26,7 +26,8 @@ Web developer with 7 years of hands-on experience in programming and web develop
 | [**ooking-appointment-system**](https://github.com/reda1472/booking-appointment-system) | Service booking & scheduling platform with real-time slot conflict prevention and digital confirmation tickets. | 🟢 [Live Demo](https://reda1472.github.io/booking-appointment-system/) |
 | [**crm-sales-pipeline**](https://github.com/reda1472/crm-sales-pipeline) | Enterprise CRM with interactive visual Kanban pipeline, deal lifecycle tracking, and communication activity logs. | 🟢 [Live Demo](https://reda1472.github.io/crm-sales-pipeline/) |
 | [**warehouse-inventory-system**](https://github.com/reda1472/warehouse-inventory-system) | Multi-warehouse inventory platform with inter-hub transfers, location bins, and interactive barcode scanning. | 🟢 [Live Demo](https://reda1472.github.io/warehouse-inventory-system/) |
-| [**`invoice-expense-management`**](https://github.com/reda1472/invoice-expense-management) | Commercial invoicing, expense management, printable tax receipts, and real-time Profit & Loss (P&L) reporting. | 🟢 [Live Demo](https://reda1472.github.io/invoice-expense-management/) |
+| [**invoice-expense-management**](https://github.com/reda1472/invoice-expense-management) | Commercial invoicing, expense management, printable tax receipts, and real-time Profit & Loss (P&L) reporting. | 🟢 [Live Demo](https://reda1472.github.io/invoice-expense-management/) |
+| [**`arabic-rtl-components`**](https://github.com/reda1472/arabic-rtl-components) | Open-source Arabic RTL UI design system with buttons, forms, modals, tables, and CSS Logical Properties. | 🟢 [Live Docs](https://reda1472.github.io/arabic-rtl-components/) |
 
 ---
 
@@ -52,6 +53,7 @@ Web developer with 7 years of hands-on experience in programming and web develop
 - **Email:** [redamohamed1477@gmail.com](mailto:redamohamed1477@gmail.com)
 - **LinkedIn:** [linkedin.com/in/reda-mohamed-a88b96257](https://www.linkedin.com/in/reda-mohamed-a88b96257/)
 - **GitHub:** [github.com/reda1472](https://github.com/reda1472)
+
 
 
 
