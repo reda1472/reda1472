@@ -1,4 +1,17 @@
-﻿# Reda Mohamed Salah
+﻿<div align="center">
+  <img src="assets/avatar.jpg" alt="Reda Mohamed Salah" width="150" height="150" style="border-radius: 50%;" />
+  <h1>Reda Mohamed Salah</h1>
+  <p><strong>Web Developer & Systems Builder (7 Years Hands-on Programming Experience)</strong><br>
+  <em>Visual Merchandiser / Display Coordinator at AL NASSER</em></p>
+  
+  <p>
+    <a href="https://reda1472.github.io/portfolio-website/"><img src="https://img.shields.io/badge/Portfolio-Live%20Website-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/reda-mohamed-a88b96257/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
+</div>
+
+---
+# Reda Mohamed Salah
 **Web Developer & Systems Builder** • *Egypt*
 
 Web developer with 7 years of hands-on experience in programming and web development, building practical websites, business dashboards, and Arabic-ready RTL interfaces.
@@ -54,6 +67,7 @@ Web developer with 7 years of hands-on experience in programming and web develop
 - **Email:** [redamohamed1477@gmail.com](mailto:redamohamed1477@gmail.com)
 - **LinkedIn:** [linkedin.com/in/reda-mohamed-a88b96257](https://www.linkedin.com/in/reda-mohamed-a88b96257/)
 - **GitHub:** [github.com/reda1472](https://github.com/reda1472)
+
 
 
 
